@@ -36,6 +36,23 @@
     color: #000;
   }
 
+  .social-links {
+    text-align: center;
+    letter-spacing: .05rem;
+    text-transform: uppercase;
+  }
+
+  .social-links a {
+    font-size: .7rem;
+    font-weight: 400;
+    margin: 0 0.5rem;
+    color: #777;
+  }
+
+  .social-links a:hover {
+    color: #000;
+  }
+
   .title {
     font-family: "Fraunces";
     font-optical-sizing: auto;
@@ -141,7 +158,7 @@
   .footer-left {
     float: left;
   }
-  
+
   .footer-right {
     float: right;
   }
